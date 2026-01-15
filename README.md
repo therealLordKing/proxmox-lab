@@ -84,7 +84,8 @@ A polished version will come later, if at all. I will likley leave this repo as 
 ## Repo Structure (planned)
 
 
-```proxmox-lab/
+```
+proxmox-lab/
 ├─ README.md
 ├─ install/
 │ ├─ 01-hardware-prep.md
@@ -96,6 +97,7 @@ A polished version will come later, if at all. I will likley leave this repo as 
 ├─ notes/
 │ └─ daily-log.md
 └─ resources.md
+```
 
 This structure may evolve as the lab grows.
 
